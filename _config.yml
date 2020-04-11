@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 夏澈的博客 | BY Blog
+title: XC Blog
+SEOTitle: 夏澈的博客 | Xc Blog
 header-img: img/post-bg-desk.jpg
 email: zhaojingyi00@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 夏澈的博客, c/c++ "
+keyword: " 夏澈的博客, c/c++ "
 url: "http://ZhaoJingyi00.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ZhaoJingyi00/ZhaoJingyi00.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: b0f56dbfaf61fb381649                            #生成的clientID
+  clientSecret: 2791d6b3ef7e27da67a0136e035244df33d5b3a0    #生成的clientSecret
+  repo: ZhaoJingyi00.github.io    #仓库名称
+  owner: ZhaoJingyi00    #github用户名
+  admin: ZhaoJingyi00
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ ba_track_id: 231d265f02f1dd93d981cad191b5ba18
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -86,7 +86,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
