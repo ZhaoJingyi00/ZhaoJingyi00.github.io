@@ -111,8 +111,4 @@ service-worker: true
 #        title: "Apple Developer",
 #        href: "https://developer.apple.com/"
 #    }
-<<<<<<< HEAD
 # ]
-=======
-# ]
->>>>>>> e2929df18bf6939307a019bdb3d19269cb453fbb
